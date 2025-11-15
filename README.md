@@ -1,4 +1,4 @@
-# Real-Time Drowsiness Detection (EAR + MAR + Head Pose)
+# Real-Time Drowsiness Detection (EAR + MAR + Head Pose) + auto Calibration
 Real-time drowsiness detection using EAR, MAR, and 3D head pose with Mediapipe and OpenCV. Features automatic user calibration, smooth multi-cue prediction, and an audio alert system. Runs on CPU without deep learning. Ideal for driver safety, monitoring, and real-time fatigue detection.
 
 A lightweight, real-time drowsiness detection system using **OpenCV**, **Mediapipe**, and classical facial geometry. The system tracks **eye aspect ratio (EAR)**, **mouth aspect ratio (MAR)**, and **3D head pose** to detect signs of fatigue. Includes **automatic calibration**, **multi-cue analysis**, and an **audio alert**.
