@@ -12,6 +12,9 @@ A lightweight, real-time drowsiness detection system using **OpenCV**, **Mediapi
 - Audio alarm for drowsiness
 - No deep learning required — runs entirely on CPU
 
+<img width="610" height="1019" alt="drowsiness_system_architecture" src="https://github.com/user-attachments/assets/b69271ce-f618-446c-ab76-ebdfcb05b9c7" />
+
+
 ## 📦 Installation
 ### 1. Clone the repository
 ```bash
