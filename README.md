@@ -31,6 +31,21 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Calibration
+<img width="1392" height="860" alt="calibration" src="https://github.com/user-attachments/assets/e58eec0c-57e5-427b-b783-a5f694340470" />
+
+### Alert
+<img width="1317" height="826" alt="alert result" src="https://github.com/user-attachments/assets/b92e6c5d-c153-43a6-aa01-145073b12352" />
+
+### Drwosiness due to high EAR value
+<img width="1317" height="826" alt="ear result" src="https://github.com/user-attachments/assets/253f3f2b-60df-4d34-89f2-079452fe61d4" />
+
+### Drowsiness due to high MAR value
+<img width="1317" height="826" alt="mar result" src="https://github.com/user-attachments/assets/59ca6850-ad43-4977-83a2-1b70c2c574c2" />
+
+
+
+
 
 ## 📁 Project Structure
 ```
